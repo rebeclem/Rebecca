@@ -13,6 +13,7 @@ This is all about me
 
 ## Features
 
+- There is a monster at the end of this book
 - Available as a **theme gem** and **GitHub Pages** theme
 - Clear and elegant design that can be used out of the box or as solid starting point
 - Tested in all major browsers, including **IE and Edge**

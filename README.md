@@ -30,7 +30,7 @@
 
 ## Features
 
-- Available as a **theme gem** and **GitHub Pages** theme
+- Do these change if I change things?
 - Clear and elegant design that can be used out of the box or as solid starting point
 - Tested in all major browsers, including **IE and Edge**
 - Built in **Service Worker** so it can work offline and on slow connections

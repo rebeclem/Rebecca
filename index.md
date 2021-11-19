@@ -20,7 +20,7 @@ This is all about me
 - Built in **Service Worker** so it can work offline and on slow connections
 - **Configurable colours** and typography in a single settings file
 - Extensive set of **shortcodes** to include various elements; such as buttons, icons, figure images and more
-- Solid **typographic framework** from [Sassline](https://sassline.com/)
+- Put in new lines
 - Configurable navigation via a single file
 - Modular Jekyll components
 - Post category support in the form of a single post index page grouped by category

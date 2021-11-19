@@ -8,9 +8,9 @@
 [<img src="https://cdn.buymeacoffee.com/buttons/default-yellow.png" width="217"/>](https://buymeacoffee.com/daviddarnes#support)
 
 ## Contents
-- [About](#about)
-- [Features](#features)
-- [Examples](#examples)
+- [Don't](#about)
+- [You](#features)
+- [Want](#examples)
 - [Installation](#installation)
 - [Customising](#customising)
 - [Configuration](#configuration)
@@ -26,7 +26,7 @@
 
 ## About
 
-**Alembic is a starting point for [Jekyll](https://jekyllrb.com/) projects. Rather than starting from scratch, this boilerplate theme is designed to get rolling immediately. Install it, configure it, tweak it, push it.**
+**This thing is so annoying and I never want to do anything with it**
 
 ## Features
 

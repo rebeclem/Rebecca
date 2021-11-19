@@ -1,4 +1,4 @@
-# [Rebecca](https://alembic.darn.es/)
+# [Rebecca](https://rebeclem.github.io/Rebecca/)
 [![Gem Version](https://badge.fury.io/rb/alembic-jekyll-theme.svg)](https://badge.fury.io/rb/alembic-jekyll-theme)
 
 ⚗ This is my website that is all about me.
